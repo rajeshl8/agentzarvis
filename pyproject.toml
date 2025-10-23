@@ -1,0 +1,22 @@
+[project]
+name = "agentzarvis"
+version = "0.1.0"
+description = "AgentZarvis — personalized AI PA: plans, prioritizes, and executes your day."
+authors = [{name="Your Name", email="you@example.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "streamlit",
+    "httpx",
+    "pydantic>=2",
+    "python-dotenv"
+]
+
+[tool.pdm]
+package-type = "application"
+
+[tool.pdm.scripts]
+api = "uvicorn app.main:app --reload --port 8000"
+ui = "streamlit run ui/streamlit_dashboard.py"

@@ -1,0 +1,57 @@
+{
+  "priorities": [
+    {
+      "title": "Send KPI deck",
+      "why": "CEO requested by tonight"
+    },
+    {
+      "title": "Clear invoice INV-2048",
+      "why": "Overdue notice"
+    }
+  ],
+  "draft_replies": [
+    {
+      "subject": "Board prep",
+      "reply": "Hi, attaching KPIs and runway. Please confirm if you need cohort or logo slides as well. \u2014Rajesh"
+    }
+  ],
+  "plan": [
+    {
+      "time": "09:00",
+      "item": "Standup"
+    },
+    {
+      "time": "10:00",
+      "item": "Focus block \u2014 KPI deck"
+    },
+    {
+      "time": "11:00",
+      "item": "Investor call (Zoom)"
+    },
+    {
+      "time": "13:00",
+      "item": "Lunch + 10-min walk"
+    },
+    {
+      "time": "15:00",
+      "item": "Customer security review"
+    },
+    {
+      "time": "17:30",
+      "item": "Gym (30 min)"
+    }
+  ],
+  "meeting": {
+    "summary": "Investor wants MRR, churn, CAC, runway. Follow-up with KPI deck and schedule Friday check-in.",
+    "decisions": [
+      "Share KPI deck today"
+    ],
+    "actions": [
+      {
+        "owner": "Rajesh",
+        "task": "Send KPI deck",
+        "due": "today"
+      }
+    ]
+  }
+}

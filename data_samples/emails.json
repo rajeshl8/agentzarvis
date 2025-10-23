@@ -1,0 +1,27 @@
+[
+  {
+    "from": "ceo@startup.io",
+    "subject": "Board prep",
+    "body": "Can you share KPIs and cash runway slide by tonight?"
+  },
+  {
+    "from": "partner@vc.com",
+    "subject": "Follow-up",
+    "body": "Thanks for the demo\u2014can we get traction numbers and 3-month roadmap?"
+  },
+  {
+    "from": "ops@vendor.com",
+    "subject": "Invoice overdue",
+    "body": "Reminder: INV-2048 due 10/25."
+  },
+  {
+    "from": "gym@fitness.app",
+    "subject": "Missed workout",
+    "body": "You missed 2 planned sessions this week."
+  },
+  {
+    "from": "lead@customer.com",
+    "subject": "PO next steps",
+    "body": "We\u2019re ready if security review clears."
+  }
+]
